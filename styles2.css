@@ -1,0 +1,27 @@
+/************** TAG SELECTOR******************/
+h1{
+  color :purple;
+  font-size: 100px;
+}
+body{
+
+background-color: yellow;
+
+}
+img:hover{
+
+  background-color: blue;
+}
+/******************CLASS SELECTOR**********************/
+.manchurian{
+  background-color: pink;
+
+}
+.noodles{
+  background-color:white;
+}
+/********************ID SELECTORS******************************/
+#heading{
+font-size: 150px;
+
+}
